@@ -1,4 +1,4 @@
-Configuration schéma logique modèle OSI, TCP/IP sous Packet Tracer 
+Réalisation schéma logique modèle OSI, TCP/IP sous Packet Tracer :
 
 - Configuration switchs , routeurs 
 - Attribution adresse Mac , Ip
